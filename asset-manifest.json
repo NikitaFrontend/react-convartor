@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-convartor/static/css/main.6f222754.css",
+    "main.js": "/react-convartor/static/js/main.08148d33.js",
+    "index.html": "/react-convartor/index.html",
+    "main.6f222754.css.map": "/react-convartor/static/css/main.6f222754.css.map",
+    "main.08148d33.js.map": "/react-convartor/static/js/main.08148d33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f222754.css",
+    "static/js/main.08148d33.js"
+  ]
+}
